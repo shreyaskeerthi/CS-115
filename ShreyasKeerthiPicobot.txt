@@ -1,0 +1,38 @@
+#SHREYAS KEERTHI
+#I PLEDGE MY HONOR THAT I HAVE ABIDED BY THE STEVENS HONOR SYSTEM
+0 x*** -> N 0
+0 NExx -> W 0
+0 NxWx -> E 0
+0 NEWx -> S 1
+1 *x** -> E 1
+1 NExx -> W 2
+2 xxxx -> W 2
+2 NxWx -> S 1
+1 NExS -> W 3
+3 xxxx -> W 3
+3 NxWS -> E 4
+4 xxxx -> S 4
+4 xxWS -> E 5
+
+5 xxxx -> E 6
+5 xExS -> W 6
+6 xExS -> W 7
+6 xxxx -> E 6
+7 xxxx -> W 7
+7 xxWS -> E 8
+8 xxxx -> S 9
+9 xxWS -> E 9
+9 xxxx -> E 6
+10 xxxx -> E 6
+
+ 
+mail transmission and storage of email
+media youtube
+auth server stores passwords and saves credentials
+
+client server is multiserver and it runs parallel servers which share similar infrastructure
+
+
+
+important to know who sender is
+
